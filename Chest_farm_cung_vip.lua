@@ -137,9 +137,9 @@ end)
 
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
-    Title = "ChestFarm",
-    Text = "By Vhung hub",
-    Icon = "rbxthumb://type=Asset&id=15338990738&w=150&h=150",
+    Title = "Auto Farm Chest",
+    Text = "By Eric Hub",
+    Icon = "https://create.roblox.com/store/asset/18693650062/Elaina",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
     Button1 = "Enable",
